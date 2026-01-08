@@ -1,2 +1,0 @@
-# CTF-journey
-mY Journey
